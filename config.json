@@ -1,5 +1,5 @@
 {
-"repository":
-"local_repo_path":
-"log_file":
+"repository": "https://github.com/AlexArsene/TEMA.git",
+"local_repo_path": "./TEMA.git",
+"log_file": "./logs/tests.log"
 }
